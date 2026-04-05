@@ -81,7 +81,6 @@ ahmed = {
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=1MuhammadAhmed-1&style=for-the-badge&color=0f2027&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
