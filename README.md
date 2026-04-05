@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions.;Building+dashboards+that+actually+matter.;3nd+Year+DS+student+%40+GIKI%2C+Pakistan.;Actively+hunting+for+Summer+2026+internships+%F0%9F%91%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+real+decisions.;Building+dashboards+that+actually+matter.;3rd+Year+DS+student+%40+GIKI%2C+Pakistan.;Actively+hunting+for+Summer+2026+internships+%F0%9F%91%80)](https://git.io/typing-svg)
 
 </div>
 
