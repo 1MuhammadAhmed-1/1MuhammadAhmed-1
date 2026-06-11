@@ -19,7 +19,7 @@
 ```python
 ahmed = {
     "name"        : "Muhammad Ahmed",
-    "degree"      : "B.Sc. Data Science — GIKI (Year 2)",
+    "degree"      : "B.Sc. Data Science — GIKI (Year 4)",
     "location"    : "Topi, KPK, Pakistan 🇵🇰",
     "status"      : "🔭 Actively seeking Summer 2026 internships",
     "targets"     : ["Islamabad (onsite)", "Remote"],
